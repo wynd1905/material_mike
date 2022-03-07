@@ -7,10 +7,17 @@ UTF: Emily Wayson
 Captain: Matthew Paul
 
 Members: 
+
 Luke Bayley
+
 Emon Chatterji
+
 Vladimir Flores
+
 Vinamr Pemmaraju
+
 Vanshika Shah
+
 Monique Whitfield
+
 Nguyen Do

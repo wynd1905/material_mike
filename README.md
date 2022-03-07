@@ -1,6 +1,7 @@
 UMD OTV Material Team Spring 2022
 
 Instructor : Michael Galczynski
+
 UTF: Emily Wayson
 
 Captain: Matthew Paul
